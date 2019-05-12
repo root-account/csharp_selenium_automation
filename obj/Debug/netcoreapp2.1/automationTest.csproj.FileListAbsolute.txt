@@ -1,0 +1,11 @@
+/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/bin/Debug/netcoreapp2.1/automationTest.deps.json
+/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/bin/Debug/netcoreapp2.1/automationTest.runtimeconfig.json
+/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/bin/Debug/netcoreapp2.1/automationTest.runtimeconfig.dev.json
+/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/bin/Debug/netcoreapp2.1/automationTest.dll
+/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/bin/Debug/netcoreapp2.1/automationTest.pdb
+/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/obj/Debug/netcoreapp2.1/automationTest.csprojAssemblyReference.cache
+/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/obj/Debug/netcoreapp2.1/automationTest.csproj.CoreCompileInputs.cache
+/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/obj/Debug/netcoreapp2.1/automationTest.AssemblyInfoInputs.cache
+/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/obj/Debug/netcoreapp2.1/automationTest.AssemblyInfo.cs
+/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/obj/Debug/netcoreapp2.1/automationTest.dll
+/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/obj/Debug/netcoreapp2.1/automationTest.pdb
