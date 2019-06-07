@@ -3729,11 +3729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/automationTest.csproj",
+      "projectUniqueName": "/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/automationTest.csproj",
       "projectName": "automationTest",
-      "projectPath": "/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/automationTest.csproj",
+      "projectPath": "/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/automationTest.csproj",
       "packagesPath": "/Users/ephraimkgwele/.nuget/packages/",
-      "outputPath": "/Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/obj/",
+      "outputPath": "/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

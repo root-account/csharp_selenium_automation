@@ -9,3 +9,14 @@
 /Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/obj/Debug/netcoreapp2.1/automationTest.AssemblyInfo.cs
 /Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/obj/Debug/netcoreapp2.1/automationTest.dll
 /Users/ephraimkgwele/Desktop/csharp/automation/automationTest/automationTest/obj/Debug/netcoreapp2.1/automationTest.pdb
+/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/bin/Debug/netcoreapp2.1/automationTest.deps.json
+/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/bin/Debug/netcoreapp2.1/automationTest.runtimeconfig.json
+/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/bin/Debug/netcoreapp2.1/automationTest.runtimeconfig.dev.json
+/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/bin/Debug/netcoreapp2.1/automationTest.dll
+/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/bin/Debug/netcoreapp2.1/automationTest.pdb
+/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/obj/Debug/netcoreapp2.1/automationTest.csprojAssemblyReference.cache
+/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/obj/Debug/netcoreapp2.1/automationTest.csproj.CoreCompileInputs.cache
+/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/obj/Debug/netcoreapp2.1/automationTest.AssemblyInfoInputs.cache
+/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/obj/Debug/netcoreapp2.1/automationTest.AssemblyInfo.cs
+/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/obj/Debug/netcoreapp2.1/automationTest.dll
+/Users/ephraimkgwele/Documents/CODE WOX/GitHub/csharp_instagram_login/obj/Debug/netcoreapp2.1/automationTest.pdb
